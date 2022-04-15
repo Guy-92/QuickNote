@@ -7,7 +7,7 @@
 This task displays an input dialog to take a note in the app Obsidian.
 
 ---
-[Link to project in TaskerNet]()
+[Link to project in TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+Quick+Notes)
 
 #### Features
 - Quick Notes dialog from home screen widget, quick tile or notification
@@ -16,9 +16,9 @@ This task displays an input dialog to take a note in the app Obsidian.
 	- Todo
 		- Saves the note to a todo folder, and prepend it with a checkbox if the option is selected. Must be written at the beginning of a note.
 	- Save note
-		- Save the note. Must be written at the end of a note.
+		- Saves the note. Must be written at the end of a note.
 	- Save and exit note
-		- Save the note and close the input dialog. Must be written at the end of a note.
+		- Saves the note and closes the input dialog. Must be written at the end of a note.
 	- Clear note
 		- Clears all the text in the input dialog. Must be written at the end of the note. 
 	- Escape
@@ -27,7 +27,7 @@ This task displays an input dialog to take a note in the app Obsidian.
 #### Instructions to import and use the project
 - Install Obsidian
 - Install Tasker
-- Open this [TaskerNet]() link on your phone
+- Open this [TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+Quick+Notes) link on your phone
 - Tap on "Import"
 - View the description if you want to
 - Import Data prompt - Tap on yes
