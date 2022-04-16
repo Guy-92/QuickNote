@@ -36,10 +36,10 @@ This task displays an input dialog to take a note in the app Obsidian.
 - follow the instructions.
 
 #### Permissions
+- Manage external storage to write files
+- Draw over other apps for the settings dialog on the home screen
 - Accessibly service to detect tapped notification with Tasker notification (this is optional)
 - App usage stats to detect AutoNotification is installed. (this is optional)
-- Draw over other apps for the settings dialog on the home screen
-- Manage external storage to write files
 
 #### Apps
 ##### Required
