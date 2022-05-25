@@ -1,7 +1,4 @@
 # QuickNote
- A way to take quick notes in Obsidian on Android
-
- # Quick Notes in Obsidian
 ### A way to take Quick Notes in [Obsidian](https://obsidian.md/) on Android
 
 This task displays an input dialog to take a note in the app Obsidian.
