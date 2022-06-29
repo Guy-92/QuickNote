@@ -15,6 +15,5 @@ _2022-05-13_
 
 **Fixed**
 
-- Fixed issue where resetting the vault folder would add the vault variable in the text field
-- Fixed issue where files would have a leading space ??
+- Fixed issue where resetting the vault folder would add the vault variable name in the text field
 - Fixed issue where the input dialog would close automatically after 30 seconds, increased the timeout to a day
