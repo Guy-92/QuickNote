@@ -18,17 +18,6 @@ This task displays an input dialog to take a note in the app Obsidian.
 	- Escape
 		- Tells the task to ignore a custom character.
 
-#### Instructions to import and use the project
-- Install Obsidian
-- Install Tasker
-- Open this [TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+QuickNote) link on your phone
-- Tap on "Import"
-- View the description if you want to
-- When the "Import Data" prompt appears, tap "Yes"
-- When the "Do you want to enable all the profiles right away?" prompt appears, tap "No"
-- When the "This project has a launch task, run?" prompt appears, tap "Yes"
-- Follow the instructions.
-
 #### Permissions
 - Manage external storage - To write and read notes in the device
 - Accessibly service - To detect tapped notification with Tasker notification (this is optional)
