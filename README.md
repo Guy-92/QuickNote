@@ -4,7 +4,7 @@
 This task displays an input dialog to take a note in the app Obsidian.
 
 ---
-[Link to project in TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+Quick+Notes)
+[Link to project in TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+QuickNote)
 
 #### Features
 - Open a Quick Note dialog from a home screen widget, quick tile or notification
