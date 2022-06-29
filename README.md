@@ -21,7 +21,7 @@ This task displays an input dialog to take a note in the app Obsidian.
 #### Instructions to import and use the project
 - Install Obsidian
 - Install Tasker
-- Open this [TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+Quick+Notes) link on your phone
+- Open this [TaskerNet](https://taskernet.com/shares/?user=AS35m8nSFNRSqPmtuWoUzDvbOkD1v%2FlqgfcQ2ZMUW6BRdBoRrpot%2BuokAci2FnhAYxkZxeZC&id=Project%3AObsidian+QuickNote) link on your phone
 - Tap on "Import"
 - View the description if you want to
 - When the "Import Data" prompt appears, tap "Yes"
